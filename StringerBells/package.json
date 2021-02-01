@@ -1,0 +1,9 @@
+{
+  "name": "stringer-bells",
+  "version": "0.0.0",
+  "description": "StringerBells",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
